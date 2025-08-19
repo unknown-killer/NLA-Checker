@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLA_CHECKER", "NLA_CHECKER\NLA_CHECKER.csproj", "{B8A800B0-6F56-457C-A639-84780CB7CFA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Debug|x64.ActiveCfg = Debug|x64
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Debug|x64.Build.0 = Debug|x64
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Release|x64.ActiveCfg = Release|x64
+		{B8A800B0-6F56-457C-A639-84780CB7CFA1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C62BDF-4230-4389-ACBC-A9D591866169}
+	EndGlobalSection
+EndGlobal
