@@ -633,7 +633,7 @@ namespace Register_CheckerTest
 
             while (_work)
             {
-                Thread.Sleep(2000); // هر 60 ثانیه (1 دقیقه)
+                Thread.Sleep(2000); 
 
                 int currentCheckedIps = _checkedIps;
                 int ipsCheckedInLastMinute = currentCheckedIps - lastCheckedIps;
@@ -646,7 +646,7 @@ namespace Register_CheckerTest
                 if (cpms > 0)
                 {
                     double elapsedMinutes = (DateTime.Now - lastTime).TotalMinutes;
-                    // محاسبه تعداد IPهای چک‌شده در دقیقه
+           
                     double ipsPerMinute = elapsedMinutes > 0 ? ipsCheckedInLastMinute / elapsedMinutes : 0;
                     cpm_bar.Maximum = cpms * 2;
                     cpm_bar.Value = cpms;
@@ -740,13 +740,13 @@ namespace Register_CheckerTest
 
         private void bunifuFormControlBox1_HelpClicked(object sender, EventArgs e)
         {
-            string telegramChannel = "https://t.me/KillerTM_rdp"; // نام کاربری کانال شما
+            string telegramChannel = "https://t.me/KillerTM_rdp"; 
             Process.Start(telegramChannel);
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            string telegramChannel = "https://t.me/KillerTM_rdp"; // نام کاربری کانال شما
+            string telegramChannel = "https://t.me/KillerTM_rdp"; 
             Process.Start(telegramChannel);
         }
         private bool mouseIsDown = false;

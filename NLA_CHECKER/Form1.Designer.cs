@@ -30,11 +30,11 @@ namespace Register_CheckerTest
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges7 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges8 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges9 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges10 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges3 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges4 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges5 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
             this.label17 = new System.Windows.Forms.Label();
             this.lbl_ccc = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -291,11 +291,11 @@ namespace Register_CheckerTest
             this.BTN_SAVE_UN.ColorContrastOnClick = 45;
             this.BTN_SAVE_UN.ColorContrastOnHover = 45;
             this.BTN_SAVE_UN.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges6.BottomLeft = true;
-            borderEdges6.BottomRight = true;
-            borderEdges6.TopLeft = true;
-            borderEdges6.TopRight = true;
-            this.BTN_SAVE_UN.CustomizableEdges = borderEdges6;
+            borderEdges1.BottomLeft = true;
+            borderEdges1.BottomRight = true;
+            borderEdges1.TopLeft = true;
+            borderEdges1.TopRight = true;
+            this.BTN_SAVE_UN.CustomizableEdges = borderEdges1;
             this.BTN_SAVE_UN.DialogResult = System.Windows.Forms.DialogResult.None;
             this.BTN_SAVE_UN.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.BTN_SAVE_UN.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -381,11 +381,11 @@ namespace Register_CheckerTest
             this.BTN_RESET_APP.ColorContrastOnClick = 45;
             this.BTN_RESET_APP.ColorContrastOnHover = 45;
             this.BTN_RESET_APP.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges7.BottomLeft = true;
-            borderEdges7.BottomRight = true;
-            borderEdges7.TopLeft = true;
-            borderEdges7.TopRight = true;
-            this.BTN_RESET_APP.CustomizableEdges = borderEdges7;
+            borderEdges2.BottomLeft = true;
+            borderEdges2.BottomRight = true;
+            borderEdges2.TopLeft = true;
+            borderEdges2.TopRight = true;
+            this.BTN_RESET_APP.CustomizableEdges = borderEdges2;
             this.BTN_RESET_APP.DialogResult = System.Windows.Forms.DialogResult.None;
             this.BTN_RESET_APP.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.BTN_RESET_APP.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -471,11 +471,11 @@ namespace Register_CheckerTest
             this.BTN_STOP.ColorContrastOnClick = 45;
             this.BTN_STOP.ColorContrastOnHover = 45;
             this.BTN_STOP.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges8.BottomLeft = true;
-            borderEdges8.BottomRight = true;
-            borderEdges8.TopLeft = true;
-            borderEdges8.TopRight = true;
-            this.BTN_STOP.CustomizableEdges = borderEdges8;
+            borderEdges3.BottomLeft = true;
+            borderEdges3.BottomRight = true;
+            borderEdges3.TopLeft = true;
+            borderEdges3.TopRight = true;
+            this.BTN_STOP.CustomizableEdges = borderEdges3;
             this.BTN_STOP.DialogResult = System.Windows.Forms.DialogResult.None;
             this.BTN_STOP.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.BTN_STOP.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -561,11 +561,11 @@ namespace Register_CheckerTest
             this.BTN_START.ColorContrastOnClick = 45;
             this.BTN_START.ColorContrastOnHover = 45;
             this.BTN_START.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges9.BottomLeft = true;
-            borderEdges9.BottomRight = true;
-            borderEdges9.TopLeft = true;
-            borderEdges9.TopRight = true;
-            this.BTN_START.CustomizableEdges = borderEdges9;
+            borderEdges4.BottomLeft = true;
+            borderEdges4.BottomRight = true;
+            borderEdges4.TopLeft = true;
+            borderEdges4.TopRight = true;
+            this.BTN_START.CustomizableEdges = borderEdges4;
             this.BTN_START.DialogResult = System.Windows.Forms.DialogResult.None;
             this.BTN_START.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.BTN_START.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -651,11 +651,11 @@ namespace Register_CheckerTest
             this.BTN_LOAD_IP.ColorContrastOnClick = 45;
             this.BTN_LOAD_IP.ColorContrastOnHover = 45;
             this.BTN_LOAD_IP.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges10.BottomLeft = true;
-            borderEdges10.BottomRight = true;
-            borderEdges10.TopLeft = true;
-            borderEdges10.TopRight = true;
-            this.BTN_LOAD_IP.CustomizableEdges = borderEdges10;
+            borderEdges5.BottomLeft = true;
+            borderEdges5.BottomRight = true;
+            borderEdges5.TopLeft = true;
+            borderEdges5.TopRight = true;
+            this.BTN_LOAD_IP.CustomizableEdges = borderEdges5;
             this.BTN_LOAD_IP.DialogResult = System.Windows.Forms.DialogResult.None;
             this.BTN_LOAD_IP.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.BTN_LOAD_IP.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -747,7 +747,7 @@ namespace Register_CheckerTest
             this.bunifuLabel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.bunifuLabel1.Size = new System.Drawing.Size(381, 20);
             this.bunifuLabel1.TabIndex = 446;
-            this.bunifuLabel1.Text = "NLA Checker Software By Unknown-Killer v0.1.0";
+            this.bunifuLabel1.Text = "NLA Checker Software By Unknown-Killer v0.1.1";
             this.bunifuLabel1.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             this.bunifuLabel1.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
             this.bunifuLabel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.bunifuLabel1_MouseDown);
@@ -909,9 +909,10 @@ namespace Register_CheckerTest
             this.cpm_bar.SuperScriptMargin = new System.Windows.Forms.Padding(5, 20, 0, 0);
             this.cpm_bar.SuperScriptText = "       CPM";
             this.cpm_bar.TabIndex = 426;
-            this.cpm_bar.Text = "0";
+            this.cpm_bar.Text = "30";
             this.cpm_bar.TextMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
-            this.cpm_bar.ValueByTransition = 0;
+            this.cpm_bar.Value = 30;
+            this.cpm_bar.ValueByTransition = 30;
             this.cpm_bar.ValueMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             // 
             // bunifuProgressBar1
